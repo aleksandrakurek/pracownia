@@ -1,30 +1,24 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Inżynieria
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: >-
+  Od ponad 25 lat wykonujemy projekty sieci gazowych, ciepłowniczych,
+  wodociągowych, kanalizacyjnych oraz drogowe.
 meta:
   description: This is a meta description.
+  noindex: false
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+ZOBACZ NASZE PROJEKTY
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+DOŚWIADCZENIE W REALIZACJI DUŻYCH OPRACOWAŃ:
 
-# Features
+przebudowa szlaku kolejowego Gliwice – Kraków jako podwykonawca SUDOP Praha,
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+budowa drogi ekspresowej S-7 Kraków – Rabka Zdrój jako podwykonawca VEPRO Verkehrsbau Projekt GmbH oraz Ingenieurburo H. Vossing GmbH,
 
-## Get started
+budowa układów kogeneracji na terenie Kopalni Borynia i Ciepłowni w Wodzisławiu,
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+budowa ciepłowni gazowej na terenie Rafinerii w Płocku jak podwykonawca Hobas Polska.
