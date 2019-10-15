@@ -7,9 +7,9 @@ subtitle: >-
   Od ponad 25 lat wykonujemy projekty sieci gazowych, ciepłowniczych,
   wodociągowych, kanalizacyjnych oraz drogowe.
 meta:
-  description: This is a meta description.
+  description: ''
   noindex: false
-  title: The Ultimate Gatsby Starter
+  title: 'Pracownia '
 ---
 ZOBACZ NASZE PROJEKTY
 
